@@ -1,4 +1,4 @@
-# Learn-home est le projet numéro 10 du parcours developpeur d'applications JavaScript React 
+# Learn-home est le projet numéro 10 du parcours developpeur d'applications JavaScript React (Developpeur Front-End)
 
 ![image](https://github.com/sarahvar/Learn-home/assets/100738177/d054ef5a-17d6-4c24-9210-c788a64b6217)
 
